@@ -1,16 +1,16 @@
-typography_spectrum: 0.5137260993942618
+typography_spectrum: 0.7038124168757349
 color:
-  brandStrength: 0.4978470301721245
-  lightness: 0.0748624661937356
-  saturation: 0.855901347938925
-  rhythmicContrast: 0.8254021881148219
+  brandStrength: 0.7315730561967939
+  lightness: 0.3535386072471738
+  saturation: 0.3631074067670852
+  rhythmicContrast: 0.7568181466776878
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-layout_spectrum: 0.6127782438416034
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+layout_spectrum: 0.027662486070767045
 author:
   name: Stefan Van den Bossche
   email: mangoamusic@gmail.com
