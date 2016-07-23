@@ -1,15 +1,15 @@
-typography_spectrum: 0.7038124168757349
+typography_spectrum: 0.42924265074543655
 color:
-  brandStrength: 0.7315730561967939
-  lightness: 0.3535386072471738
-  saturation: 0.3631074067670852
-  rhythmicContrast: 0.7568181466776878
+  brandStrength: 0.11933297291398048
+  lightness: 0.5249492994043976
+  saturation: 0.8474352904595435
+  rhythmicContrast: 0.25985998730175197
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 layout_spectrum: 0.027662486070767045
 author:
   name: Stefan Van den Bossche
