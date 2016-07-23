@@ -17,7 +17,11 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50a8b0f4-1c6e-44cd-8c38-99109e9c7908.jpg
 name: MangoA
-navigation: []
+navigation:
+  - id: d8d6bee5-dfe7-455f-81eb-e6de9dddce87
+    url: 2016-07-21-history.html
+    name: Our History
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fec4ab4c-07c5-4a81-b21e-742a8cacac49.zip
 title: Tropique
