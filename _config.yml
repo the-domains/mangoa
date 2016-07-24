@@ -26,6 +26,10 @@ navigation:
     url: 2016-07-24-our-history.html
     name: Our History
     type: content
+  - id: 'https://www.facebook.com/Mangoa-197941767016658/'
+    url: 'https://www.facebook.com/Mangoa-197941767016658/'
+    name: Facebook
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fec4ab4c-07c5-4a81-b21e-742a8cacac49.zip
 title: ''
