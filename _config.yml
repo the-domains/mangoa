@@ -18,10 +18,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50a8b0f4-1c6e-44cd-8c38-99109e9c7908.jpg
 name: MangoA
 navigation:
-  - id: 50e3bc56-12f8-4570-981c-54e059bcfc14
-    url: 2016-07-24-our-history.html
-    name: Our History
-    type: content
   - id: 'https://soundcloud.com/mangoa/tracks'
     url: 'https://soundcloud.com/mangoa/tracks'
     name: Soundcloud
