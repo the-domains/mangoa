@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-24T01:31:34.673Z'
+datePublished: '2016-07-24T01:52:44.243Z'
 sourcePath: _posts/2016-07-24-lovers-stayed-longer-by-mangoa.md
 isBasedOnUrl: 'https://soundcloud.com/mangoa/lovers-stayed-longer'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-24T01:31:34.278Z'
+dateModified: '2016-07-24T01:52:43.747Z'
 title: ''
 app_links:
   - type: ios
@@ -55,6 +55,6 @@ _context: 'http://schema.org'
 _type: AudioObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8df1896-8c1c-4dbb-a0ac-28f298477a92.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff40caefa2f1aa5215b736ad95c319fa/croprotate.jpg?cropheight=1187&cropwidth=1204&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff8df1896-8c1c-4dbb-a0ac-28f298477a92.jpg&x=0&y=0)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F275080247%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fmangoa%2Flovers-stayed-longer&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000173036147-rxoid0-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
