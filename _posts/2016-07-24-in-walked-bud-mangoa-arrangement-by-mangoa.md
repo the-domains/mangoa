@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-07-24T01:51:28.971Z'
+datePublished: '2016-07-24T01:52:52.024Z'
+sourcePath: _posts/2016-07-24-in-walked-bud-mangoa-arrangement-by-mangoa.md
 isBasedOnUrl: 'https://soundcloud.com/mangoa/in-walked-bud-mangoa-arrangement'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-24T01:51:17.248Z'
+dateModified: '2016-07-24T01:52:51.668Z'
 title: ''
 app_links:
   - type: ios
@@ -47,7 +48,6 @@ app_links:
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-07-24-in-walked-bud-mangoa-arrangement-by-mangoa.md
 inFeed: true
 hasPage: false
 inNav: false
