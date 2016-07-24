@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-24T20:09:24.633Z'
+datePublished: '2016-07-24T20:14:22.309Z'
 sourcePath: _posts/2016-07-24-our-history.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-24T20:09:24.086Z'
+dateModified: '2016-07-24T20:14:21.137Z'
 title: Our History
 publisher: {}
 description: ''
@@ -17,8 +17,9 @@ _type: MediaObject
 
 ## Hi,   
 I am Stefan Van den Bossche, guitarist. Together with vocalist Gwen Taylor we are MangoA.   
-This is our story.   
-While both living in Brussels Gwen joined my band Hot Streets. A while later the band dissolved and we continued as a duo, playing the festival circuit, cultural centres and jazz clubs.
+This is our story. 
+
+## While both living in Brussels Gwen joined my band Hot Streets. A while later the band dissolved and we continued as a duo, playing the festival circuit, cultural centres and jazz clubs.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f26cecb-d2ce-486f-9cc6-9214bb19f696.jpg)
 
 ## Gwen was born in England, of Barbadian parents, and spent her teenage-years in Barbados. Here she picks up singing while attending church, and in the school choir.
