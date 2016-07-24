@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MangoA]]></title>
-        <description><![CDATA[MangoA]]></description>
+        <title><![CDATA[Tropique]]></title>
+        <description><![CDATA[Tropique]]></description>
         <link>https://thegrid.ai/mangoa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 00:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 01:20:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mangoa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lovers Stayed Longer by MangoA]]></title>
+            <description><![CDATA[<article><h1>Lovers Stayed Longer by MangoA</h1><p>Lovers Stayed Longer was written by Gwen Taylor and Stefan Van den Bossche and recorded in 2015 at the Storehouse, Barbados. Vocal - Gwen Taylor Guitar, bass and production - Stefan Van den Bossche</p></article>]]></description>
+            <link>https://soundcloud.com/mangoa/lovers-stayed-longer</link>
+            <guid isPermaLink="false">c78746b3-9024-43a3-8dc5-188eae3147d5</guid>
+            <pubDate>Sun, 24 Jul 2016 01:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Walked Bud - MangoA arrangement by MangoA]]></title>
+            <description><![CDATA[<article><h1>In Walked Bud - MangoA arrangement by MangoA</h1><p>In walked Bud was written by Thelonious Monk in 1947. This jazz classic was specially re-arranged for and performed at the Soul Gathering event in Barbados in 2014. It was recorded in 2015 at the Storehouse, Barbados. Vocal - Gwen Taylor Guitar and production - Stefan Van den Bossche</p></article>]]></description>
+            <link>https://soundcloud.com/mangoa/in-walked-bud-mangoa-arrangement</link>
+            <guid isPermaLink="false">63664827-5c6b-49cc-8427-36f189681fa8</guid>
+            <pubDate>Sun, 24 Jul 2016 01:20:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b990d4c2-f057-4482-9066-29cf5be923b2.jpg">]]></description>
