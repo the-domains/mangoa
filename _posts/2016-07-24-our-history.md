@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-24T20:39:17.000Z'
+datePublished: '2016-07-24T20:43:54.119Z'
 sourcePath: _posts/2016-07-24-our-history.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-24T20:39:16.525Z'
+dateModified: '2016-07-24T20:43:52.922Z'
 title: Our History
 publisher: {}
 description: ''
-starred: false
+starred: true
 url: our-history/index.html
 _type: Article
 
