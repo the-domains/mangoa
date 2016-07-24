@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-24T01:32:07.766Z'
+datePublished: '2016-07-24T01:31:34.673Z'
 sourcePath: _posts/2016-07-24-lovers-stayed-longer-by-mangoa.md
 isBasedOnUrl: 'https://soundcloud.com/mangoa/lovers-stayed-longer'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-24T01:32:07.319Z'
+dateModified: '2016-07-24T01:31:34.278Z'
 title: ''
 app_links:
   - type: ios
