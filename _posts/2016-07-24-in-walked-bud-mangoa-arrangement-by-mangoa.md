@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-07-24T01:32:34.768Z'
+datePublished: '2016-07-24T01:44:52.472Z'
 sourcePath: _posts/2016-07-24-in-walked-bud-mangoa-arrangement-by-mangoa.md
 isBasedOnUrl: 'https://soundcloud.com/mangoa/in-walked-bud-mangoa-arrangement'
 keywords: []
 related: []
-author: []
+author:
+  - {}
 via: {}
-dateModified: '2016-07-24T01:32:34.264Z'
-title: Thelonious Monk
+dateModified: '2016-07-24T01:44:52.047Z'
+title: ''
 app_links:
   - type: ios
     namespace: ai
