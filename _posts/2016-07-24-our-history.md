@@ -1,23 +1,19 @@
 ---
-datePublished: '2016-07-24T02:28:35.077Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f26cecb-d2ce-486f-9cc6-9214bb19f696.jpg
+datePublished: '2016-07-24T02:36:55.808Z'
 author: []
 via: {}
-dateModified: '2016-07-24T02:28:14.171Z'
+dateModified: '2016-07-24T02:36:54.661Z'
 title: Our History
 publisher: {}
 description: >-
-  Hi,  I am Stefan Van den Bossche, guitarist. Together with vocalist Gwen
-  Taylor we are MangoA.  This is our story.     While both living in Brussels
-  Gwen joined my band Hot Streets. A while later the band dissolved and we
-  continued as a duo, playing the festival circuit, cultural centres and jazz
-  clubs.
-starred: false
+  Hi, I am Stefan Van den Bossche, guitarist. Together with vocalist Gwen Taylor
+  we are MangoA. This is our story.  While both living in Brussels Gwen joined
+  my band Hot Streets. A while later the band dissolved and we continued as a
+  duo, playing the festival circuit, cultural centres and jazz clubs.
 sourcePath: _posts/2016-07-24-our-history.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: our-history/index.html
 _type: MediaObject
 
 ---
