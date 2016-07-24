@@ -22,6 +22,10 @@ navigation:
     url: 2016-07-24-our-history.html
     name: Our History
     type: content
+  - id: 'https://soundcloud.com/mangoa/tracks'
+    url: 'https://soundcloud.com/mangoa/tracks'
+    name: Soundcloud
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fec4ab4c-07c5-4a81-b21e-742a8cacac49.zip
 title: ''
