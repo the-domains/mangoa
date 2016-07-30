@@ -15,21 +15,18 @@ author:
   name: Stefan Van den Bossche
   email: mangoamusic@gmail.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/50a8b0f4-1c6e-44cd-8c38-99109e9c7908.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d59c5a96-c492-4f7c-9645-4da138206851.jpg
 name: MangoA
 navigation:
-  - id: 50e3bc56-12f8-4570-981c-54e059bcfc14
-    url: 2016-07-24-our-history.html
-    name: Our History
+  - name: Our History
+    id: 50e3bc56-12f8-4570-981c-54e059bcfc14
     type: content
-  - id: 'https://www.facebook.com/Mangoa-197941767016658/'
+  - name: Facebook
     url: 'https://www.facebook.com/Mangoa-197941767016658/'
-    name: Facebook
     type: external
-  - id: 'https://soundcloud.com/mangoa/tracks'
+  - name: Soundcloud
     url: 'https://soundcloud.com/mangoa/tracks'
-    name: Soundcloud
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fec4ab4c-07c5-4a81-b21e-742a8cacac49.zip
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fcb342a-25ac-4ca4-bae6-48e627963690.ico
 title: ''
