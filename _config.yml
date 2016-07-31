@@ -18,6 +18,9 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d59c5a96-c492-4f7c-9645-4da138206851.jpg
 name: MangoA
 navigation:
+  - name: Our History
+    url: 'http://thegrid.ai/mangoa_history/'
+    type: external
   - name: Facebook
     url: 'https://www.facebook.com/Mangoa-197941767016658/'
     type: external
@@ -29,9 +32,6 @@ navigation:
     type: external
   - name: Audio
     url: 'http://thegrid.ai/mangoa_audio/'
-    type: external
-  - name: Our History
-    url: 'http://thegrid.ai/mangoa_history/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fcb342a-25ac-4ca4-bae6-48e627963690.ico
