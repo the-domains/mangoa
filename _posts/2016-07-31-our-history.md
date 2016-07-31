@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-31T20:08:26.104Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b1cd5d8-4ad0-4ecd-9176-006e8175888d.jpg
+datePublished: '2016-07-31T20:11:50.348Z'
 author: []
 via: {}
-dateModified: '2016-07-31T20:08:07.517Z'
+dateModified: '2016-07-31T20:11:49.970Z'
 title: Our History
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-07-31-our-history.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: our-history/index.html
 _type: MediaObject
 
 ---
