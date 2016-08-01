@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-01T18:56:09.003Z'
+datePublished: '2016-08-01T18:58:59.376Z'
 sourcePath: _posts/2016-07-31-our-history.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-01T18:56:08.335Z'
+dateModified: '2016-08-01T18:58:58.451Z'
 title: ''
 publisher: {}
 description: >-
-  Hi,  I am Stefan Van den Bossche, guitarist. Together with vocalist Gwen
-  Taylor we are MangoA.  This is our story.
+  Hi, I am Stefan Van den Bossche, guitarist. Together with vocalist Gwen Taylor
+  we are MangoA. This is our story.
 starred: false
 url: our-history/index.html
 _type: MediaObject
