@@ -30,6 +30,9 @@ navigation:
   - name: Soundcloud
     url: 'https://soundcloud.com/mangoa/tracks'
     type: external
+  - name: Video
+    url: 'https://www.youtube.com/channel/UCzloqvz-OFRjT26Htjl4v6w'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fcb342a-25ac-4ca4-bae6-48e627963690.ico
 title: ''
