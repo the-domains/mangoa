@@ -30,9 +30,6 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Mangoa-197941767016658/'
     type: external
-  - name: Our History3
-    id: a481f39f-6ed6-4e3b-90b9-181f6ce4d307
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fcb342a-25ac-4ca4-bae6-48e627963690.ico
 title: ''
