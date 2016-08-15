@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[MangoA]]></title>
         <description><![CDATA[MangoA]]></description>
-        <link>https://thegrid.ai/mangoa/</link>
+        <link>http://mangoa.world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 20:11:52 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/mangoa/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Aug 2016 21:52:54 GMT</lastBuildDate>
+        <atom:link href="http://mangoa.world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa1b53b8-54e9-46de-b6ae-b56af4f23cb9.jpg">]]></description>
-            <link>https://thegrid.ai/mangoa/a8273f2f-cddf-484e-a918-429e1d6f493f/index.html</link>
+            <link>http://mangoa.world/a8273f2f-cddf-484e-a918-429e1d6f493f/index.html</link>
             <guid isPermaLink="false">a8273f2f-cddf-484e-a918-429e1d6f493f</guid>
             <pubDate>Sun, 31 Jul 2016 19:14:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcf3fea8-5ceb-493b-8221-5fe7b3e19aa8.gif">]]></description>
+            <link>http://mangoa.world/3da5543d-e5ed-4fd2-af8c-c0dbb8f6b14a/index.html</link>
+            <guid isPermaLink="false">3da5543d-e5ed-4fd2-af8c-c0dbb8f6b14a</guid>
+            <pubDate>Mon, 15 Aug 2016 21:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Walked Bud - MangoA arrangement by MangoA]]></title>
