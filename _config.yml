@@ -11,6 +11,8 @@ color:
     - '#7FB2F0'
     - '#ADD5F7'
 layout_spectrum: 0.027662486070767045
+analytics:
+  google: UA-82530004-1
 author:
   name: Stefan Van den Bossche
   email: mangoamusic@gmail.com
