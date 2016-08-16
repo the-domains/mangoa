@@ -1,17 +1,16 @@
 ---
 description: 'Aug 17 - 7:30-9:30 at Sugar Bay Barbados in Hastings, Christ Church.'
-dateModified: '2016-08-16T01:39:48.109Z'
-datePublished: '2016-08-16T01:40:26.999Z'
+dateModified: '2016-08-16T01:41:41.573Z'
+datePublished: '2016-08-16T01:41:42.089Z'
 title: Upcoming Shows
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-16-upcoming-shows.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: upcoming-shows/index.html
+_type: Blurb
 
 ---
 # Upcoming Shows
