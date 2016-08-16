@@ -32,9 +32,6 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Mangoa-197941767016658/'
     type: external
-  - name: Upcoming Shows
-    id: 1cc6b328-3656-4b12-90ba-c0cd3bf08db9
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fcb342a-25ac-4ca4-bae6-48e627963690.ico
 title: ''
