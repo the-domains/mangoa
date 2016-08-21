@@ -16,8 +16,7 @@ analytics:
 author:
   name: Stefan Van den Bossche
   email: mangoamusic@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e91fd90d-6df2-4a84-8bb8-769ff80f332b.jpg
+logo: null
 name: MangoA
 navigation:
   - name: Our History
