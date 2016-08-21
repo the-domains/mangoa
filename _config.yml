@@ -16,9 +16,8 @@ analytics:
 author:
   name: Stefan Van den Bossche
   email: mangoamusic@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6edbcf22-c2e9-4c41-a7d7-8f9838c4996a.jpg
-name: M
+logo: null
+name: MangoA
 navigation:
   - name: Our History
     url: 'http://thegrid.ai/mangoa_history/'
