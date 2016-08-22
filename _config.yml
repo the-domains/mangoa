@@ -19,9 +19,6 @@ author:
 logo: null
 name: MangoA
 navigation:
-  - name: Home
-    url: mangoa.world
-    type: external
   - name: Our History
     url: 'http://thegrid.ai/mangoa_history/'
     type: external
