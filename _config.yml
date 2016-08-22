@@ -19,11 +19,11 @@ author:
 logo: null
 name: MangoA
 navigation:
-  - name: Our History
-    url: 'http://thegrid.ai/mangoa_history/'
-    type: external
   - name: Home
     url: mangoa.world
+    type: external
+  - name: Our History
+    url: 'http://thegrid.ai/mangoa_history/'
     type: external
   - name: Video
     url: 'https://www.youtube.com/channel/UCzloqvz-OFRjT26Htjl4v6w'
