@@ -31,15 +31,15 @@ navigation:
   - name: Audio
     url: 'https://soundcloud.com/mangoa/tracks'
     type: external
+  - name: Photos
+    id: c280bcde-ac6c-4bbf-afec-ea9c931a9060
+    type: content
   - name: Facebook
     url: 'https://www.facebook.com/Mangoa-197941767016658/'
     type: external
   - name: Upcoming Shows
     url: 'http://thegrid.ai/mangoa_shows/'
     type: external
-  - name: Photos
-    id: c280bcde-ac6c-4bbf-afec-ea9c931a9060
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fcb342a-25ac-4ca4-bae6-48e627963690.ico
 title: ''
