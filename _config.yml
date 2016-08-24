@@ -1,4 +1,3 @@
-layout_spectrum: 0.4427502991165966
 typography_spectrum: 0.8445443778764457
 color:
   brandStrength: 0.38267674716189504
@@ -11,12 +10,14 @@ color:
     - '#F2CA80'
     - '#5E5A59'
     - '#0D0D0D'
+layout_spectrum: 0.4427502991165966
 analytics:
   google: UA-82657126-1
 author:
   name: Stefan Van den Bossche
   email: mangoamusic@gmail.com
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/643ab330-d09c-4698-a6cf-746a530fa868.jpg
 name: MangoA
 navigation:
   - name: Home
