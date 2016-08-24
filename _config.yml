@@ -32,9 +32,6 @@ navigation:
   - name: Audio
     url: 'https://soundcloud.com/mangoa/tracks'
     type: external
-  - name: Photos
-    id: c280bcde-ac6c-4bbf-afec-ea9c931a9060
-    type: content
   - name: Upcoming Shows
     url: 'http://thegrid.ai/mangoa_shows/'
     type: external
