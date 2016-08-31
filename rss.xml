@@ -4,7 +4,7 @@
         <description><![CDATA[MangoA]]></description>
         <link>http://mangoa.world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 19:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 19:41:19 GMT</lastBuildDate>
         <atom:link href="http://mangoa.world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 21 Aug 2016 19:46:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Four (improvisations) performed by MangoA]]></title>
+            <description><![CDATA[<article><h1>Four (improvisations) performed by MangoA</h1><p>A short video clip with improvisations to the Miles Davis composition Four by Barbados based duo MangoA. Performed live at the Roundhouse in Bathsheba, Barba...</p></article>]]></description>
+            <link>https://youtu.be/Gf-WK3rB9iM</link>
+            <guid isPermaLink="false">e801167e-8fbf-416c-922e-c1715c1419e0</guid>
+            <pubDate>Mon, 29 Aug 2016 19:41:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lullaby Of Birdland performed by MangoA]]></title>
-            <description><![CDATA[<article><h1>Lullaby Of Birdland performed by MangoA</h1><p>Barbados based duo MangoA performing Lullaby Of Birdland, composed by George Shearing with lyrics by George David Weiss. Performed live at Cobblers Cove, Speightstown, Barbados on March 17, 2016. Featuring vocalist Gwen Taylor and guitarist Stefan Van den Bossche.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Lullaby Of Birdland performed by MangoA</h1><p>Barbados based duo MangoA performing Lullaby Of Birdland, composed by George Shearing with lyrics by George David Weiss. Performed live at Cobblers Cove, Speightstown, Barbados on March 17, 2016. Featuring vocalist Gwen Taylor and guitarist Stefan Van den Bossche.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fa8bcbdbd01e7a3698b6f1cc45b7be33/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FseQsOsARfBE%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://youtu.be/seQsOsARfBE</link>
             <guid isPermaLink="false">d6384209-c60b-44f4-89aa-44e3f289eeb8</guid>
             <pubDate>Mon, 29 Aug 2016 19:39:01 GMT</pubDate>
