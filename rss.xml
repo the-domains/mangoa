@@ -4,7 +4,7 @@
         <description><![CDATA[MangoA]]></description>
         <link>http://mangoa.world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 19:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 19:42:44 GMT</lastBuildDate>
         <atom:link href="http://mangoa.world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 21 Aug 2016 19:46:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vocal-guitar duo MangoA (live demo)]]></title>
+            <description><![CDATA[<article><h1>Vocal-guitar duo MangoA (live demo)</h1><p>A compilation of songs done live by MangoA featuring vocalist Gwen Taylor and guitarist Stefan Van den Bossche. MangoA is available for shows and can be cont...</p></article>]]></description>
+            <link>https://youtu.be/ndcQrHaC4Pc</link>
+            <guid isPermaLink="false">8a899661-f712-455a-9bde-04a7d2aa083a</guid>
+            <pubDate>Mon, 29 Aug 2016 19:42:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Four (improvisations) performed by MangoA]]></title>
-            <description><![CDATA[<article><h1>Four (improvisations) performed by MangoA</h1><p>A short video clip with improvisations to the Miles Davis composition Four by Barbados based duo MangoA. Performed live at the Roundhouse in Bathsheba, Barba...</p></article>]]></description>
+            <description><![CDATA[<article><h1>Four (improvisations) performed by MangoA</h1><p>A short video clip with improvisations to the Miles Davis composition Four by Barbados based duo MangoA. Performed live at the Roundhouse in Bathsheba, Barba...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e145a59371167eabef6bd8a871c1b998/croprotate.jpg?cropheight=720&cropwidth=978&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGf-WK3rB9iM%2Fmaxresdefault.jpg&x=152&y=0"></article>]]></description>
             <link>https://youtu.be/Gf-WK3rB9iM</link>
             <guid isPermaLink="false">e801167e-8fbf-416c-922e-c1715c1419e0</guid>
             <pubDate>Mon, 29 Aug 2016 19:41:01 GMT</pubDate>
