@@ -4,7 +4,7 @@
         <description><![CDATA[MangoA]]></description>
         <link>http://mangoa.world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 18:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 19:39:41 GMT</lastBuildDate>
         <atom:link href="http://mangoa.world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 21 Aug 2016 19:46:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lullaby Of Birdland performed by MangoA]]></title>
+            <description><![CDATA[<article><h1>Lullaby Of Birdland performed by MangoA</h1><p>Barbados based duo MangoA performing Lullaby Of Birdland, composed by George Shearing with lyrics by George David Weiss. Performed live at Cobblers Cove, Speightstown, Barbados on March 17, 2016. Featuring vocalist Gwen Taylor and guitarist Stefan Van den Bossche.</p></article>]]></description>
+            <link>https://youtu.be/seQsOsARfBE</link>
+            <guid isPermaLink="false">d6384209-c60b-44f4-89aa-44e3f289eeb8</guid>
+            <pubDate>Mon, 29 Aug 2016 19:39:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dindi performed by MangoA]]></title>
-            <description><![CDATA[<article><h1>Dindi performed by MangoA</h1><p>Barbados based duo MangoA performing Dindi, composed by Antonio Carlos Jobim with English lyrics by Ray Gilbert. Performed live at Cobblers Cove, Speightstown, Barbados on March 17, 2016. Featuring vocalist Gwen Taylor and guitarist Stefan Van den Bossche.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Dindi performed by MangoA</h1><p>Barbados based duo MangoA performing Dindi, composed by Antonio Carlos Jobim with English lyrics by Ray Gilbert. Performed live at Cobblers Cove, Speightstown, Barbados on March 17, 2016. Featuring vocalist Gwen Taylor and guitarist Stefan Van den Bossche.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f8fc34e12cfd60fed37a83434ce2df83/croprotate.jpg?cropheight=720&cropwidth=1008&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FieasSxeoquc%2Fmaxresdefault.jpg&x=137&y=0"></article>]]></description>
             <link>https://youtu.be/ieasSxeoquc</link>
             <guid isPermaLink="false">30d45daf-ed7e-4752-8881-16c82f2f9d55</guid>
             <pubDate>Wed, 24 Aug 2016 18:18:35 GMT</pubDate>
